@@ -1,7 +1,7 @@
 # Chrono-Guard: AI-Driven Campus Sentinel
-An AI-powered real-time attendance monitoring system using facial recognition and time-based status detection to automate and streamline attendance management in educational institutions.
+"An AI-powered real-time attendance monitoring system using facial recognition and time-based status detection to automate and streamline attendance management in educational institutions."
 
-🔍 Features
+## Features
 🎥 Real-time face recognition using webcam input (via face_recognition + OpenCV)
 
 📍 Time-based categorization of students as On-Time or Late
