@@ -27,7 +27,7 @@ Webcam access
 A GPU is optional but helps with performance.
 ## 🔐 Admin Login
 Username: admin
-Password: admin123
+- Password: admin123
 
 You can change this in app.py for better security.
 ## 📬 Email Reporting (Optional)
