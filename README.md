@@ -45,7 +45,6 @@ Mobile app interface
 Cloud-based deployment
 
 # Acknowledgments
-The dataset was sourced from Kaggle.
 Thanks to my mentors and colleagues for their guidance.
 
 ## 📄 License
