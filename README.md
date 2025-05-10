@@ -20,9 +20,10 @@
 Make sure the following dependencies are installed:
 
 "pip install opencv-python face_recognition flask pandas numpy"
+
 Additional tools:
-Python 3.8+
-Webcam access
+- Python 3.8+
+- Webcam access
 
 A GPU is optional but helps with performance.
 ## 🔐 Admin Login
