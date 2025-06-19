@@ -98,9 +98,9 @@ def record_attendance(full_name, roll_number, department, current_date, current_
 
 
 def send_email(attendance_data):
-    sender_email = "your_mail_id.com"
-    receiver_email = "admin_mail_id.com"
-    password = "app_password_mial"  # Replace with your password or env variable
+    sender_email = "mailidcom"
+    receiver_email = "mailid"
+    password = "app paswword"  # Replace with your password or env variable
 
     email_content = """
     <html>
